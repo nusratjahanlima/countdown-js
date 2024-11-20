@@ -1,0 +1,34 @@
+/* Gradient Background */
+body {
+    background: linear-gradient(to bottom right, #1e3c72, #bfc8d8); /* Blue gradient */
+    color: #ffffff; /* Ensures text is readable on dark background */
+    font-family: 'Arial', sans-serif; /* Use a clean and modern font */
+    height: 100vh;
+    margin-top: 40px;
+}
+
+.countdown-main{
+    margin-top: 40px;
+}
+
+/* Countdown Numbers Styling */
+p {
+    font-weight: bold;
+    margin: 0;
+    font-size: 2rem;
+}
+
+.countdown{
+    margin-left: 560px;
+}
+
+/* Additional Spacing */
+.countdown-container {
+    margin-top: 30px;
+}
+
+/* Heading Style */
+h1 {
+    color: #f1f1f1;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
